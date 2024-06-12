@@ -1,0 +1,19 @@
+p{
+  background-color: black;
+}
+
+#firstParagraph{
+  color: #f3f3f3;
+}
+
+#secondParagraph{
+  color: #f89393;
+}
+
+.titles{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#secondaryTitle{
+  font-weight: lighter;
+}
